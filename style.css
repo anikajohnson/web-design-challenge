@@ -1,0 +1,11 @@
+h1 {
+    color: royalblue;
+}
+#dataframe {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+#weather-page-links {
+    padding-bottom: 30px;
+}
